@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="background_picture">
+    <file>blue.png</file>
+    <file>pink.png</file>
+    <file>home.png</file>
+    <file>head.png</file>
+    <file>table.png</file>
+    <file>bg2.jpg</file>
+    <file>yellow.png</file>
+    <file>avtar.png</file>
+    <file>bg1.jpg</file>
+  </qresource>
+</RCC>
