@@ -1,8 +1,8 @@
 <h1 align="center">tilapia-mossambica</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/license_-MIT-green" alt="">  
-    <img src="https://img.shields.io/badge/Python-%3E3.8-green" alt="">  
+    <img src="https://img.shields.io/badge/license_-MIT-blue" alt="">  
+    <img src="https://img.shields.io/badge/Python-%3E3.8-blue" alt="">  
     <img src="https://img.shields.io/badge/pyqt-grey" alt="">  
     <img src="https://img.shields.io/badge/mysql-grey" alt=""> 
 </p>
