@@ -4,8 +4,6 @@ import time
 import pymysql
 #  导入操作系统包
 import sys
-#  导入win10提示窗包
-from win10toast import ToastNotifier
 #  Pyqt导入包
 from PyQt5 import QtWidgets
 from PyQt5.QtCore import Qt
@@ -34,9 +32,8 @@ def submit2(sql):
     conn.close()
 
 
-# win10提示窗的方法 参数1：标题 参数2：内容
 def message(title, content):
-    ToastNotifier().show_toast(title, content, icon_path=None, duration=3, threaded=True)
+    print(f'{title}: {content}')
 
 
 # 登录界面的类继承
